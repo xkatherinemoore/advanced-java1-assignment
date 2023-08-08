@@ -1,0 +1,5 @@
+Missing Data: emily.johnson@yahoo.com, 28
+Invalid Age: Michael Davis, michael.davis@yahoo.com, -42
+Missing Data: David Martinez, 37
+Invalid Age: Olivia Smith, olivia.smith@gmail.com, -26
+Missing Data: abigail.davis@yahoo.com, -29
